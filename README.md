@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">Skills :<br>Languages: JavaScript, Python, C++.<br>Frameworks: React, Node.js, Express.<br>Tools: Git, GitHub, VS Code, Docker.</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Languages: JavaScript, Python, C++.<br>Frameworks: React, Node.js, Express.<br>Tools: Git, GitHub, VS Code, Docker.</p>
 
 ###
 
